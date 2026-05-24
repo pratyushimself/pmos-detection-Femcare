@@ -1,0 +1,7 @@
+.lovable/
+.env
+node_modules/
+dist/
+__pycache__/
+*.log
+*.tmp
